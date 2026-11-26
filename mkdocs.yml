@@ -1,0 +1,10 @@
+site_name: "Hesiod Procedural Terrain & Hydraulic Erosion Simulation Documentation"
+site_description: "Technical documentation for Hesiod C++ procedural heightmap nodes, thermal weathering solvers, and OpenEXR terrain export."
+site_url: https://hesioddoc.readthedocs.io/
+theme:
+  name: readthedocs
+
+nav:
+  - "Procedural Terrain Heightmaps & Overview": index.md
+  - "Particle-Based Hydraulic & Thermal Erosion": hydraulic-erosion.md
+  - "Open Graphics Releases & Technical Media Wires": telemetry-and-wire-protocols.md
